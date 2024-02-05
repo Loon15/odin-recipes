@@ -1,16 +1,49 @@
-body,li,a,ul{
+li,a,ul{
     text-align:center;
     font-family:"Garamond", serif;
     font-size:24px;
-    background-color:#AFE1AF;
     color: #087969;
-    list-style-position:inside;
-
-
-
+    
 }
 
-h1{
+
+body{
+    background-color:#AFE1AF;
+    font-size:24px;
+}
+
+
+
+
+div{
     color:#087969;
     background-color:#a5cca5;
+    text-align:center;
+    padding:30px;
+    margin-bottom:10px;
+    margin-left:50px;
+    margin-right:50px;
+    border-style:dashed;
+    border-color:bisque;
 }
+
+.rhu{
+    margin:60px 700px;
+    padding:8px 200px;
+    text-align:center;
+}
+
+.pop{
+    margin:60px 700px;
+    padding:8px 200px;
+    text-align:center;
+}
+
+.short{
+    margin:60px 700px;
+    padding:8px 200px;
+    text-align:center;
+}
+
+
+
